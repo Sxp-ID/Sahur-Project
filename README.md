@@ -1,6 +1,6 @@
 # Tools Sahur Project
 ```
-Tools ini dibuat untuk bisa bangunin
+Tools ini dibuat untuk bangunin
 sahur buat temen atau doi lu
 (kalo punya awokawok :v)
 ```
