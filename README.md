@@ -1,8 +1,8 @@
 # Tools Sahur Project
 ```
-Tools ini dibuat untuk bisa
-membangunkan sahur buat temen
-atau doi lu (kalo punya awokawok)
+Tools ini dibuat untuk bisa bangunin
+sahur buat temen atau doi lu
+(kalo punya awokawok :v)
 ```
 ![Sanz](https://github.com/Sxp-ID/Sahur-Project/blob/main/.Tools%20Sahur%20Project%20by%20Sanz.png)
 > Script ini sewaktu-waktu bisa jadi limit ataupun coid jadi jangan salahin author nya ya goblok.
