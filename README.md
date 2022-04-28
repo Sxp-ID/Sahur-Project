@@ -9,9 +9,10 @@ sahur buat temen atau doi lu
 ## How to it?
 ```python
 $ cd Sahur-Project
+$ git pull
 $ bash install.sh
 ```
-> Get Token [click here](https://cutt.ly/TokenSahurProject)
+> Get Token [click here](https://bit.ly/TokenSahurProject)
 ## Support Me On
 <b>• [Facebook](https://m.facebook.com/dhasilva.junior.3)</b>
 <br>
